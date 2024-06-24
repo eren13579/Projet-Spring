@@ -1,0 +1,7 @@
+<root>
+    <item name='java.io.OutputStream void write(byte[], int, int)'>
+        <annotation name='org.jetbrains.annotations.Contract'>
+            <val name="pure" val="true"/>
+        </annotation>
+    </item>
+</root>
